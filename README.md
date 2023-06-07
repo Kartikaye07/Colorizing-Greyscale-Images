@@ -8,7 +8,7 @@ In this project, tweaked the Autoencoder Neural Network in such a manner that wh
 
 The project performed significantly well on converting grayscale images to colored rgb images. Some of the results can be seen below: 
 ![test_dog_2](https://github.com/Kartikaye07/Colorizing-Greyscale-Images/assets/106856745/a3ff0c61-b2b9-435c-b760-63209cd7611b)
-![image]![test_dog_1](https://github.com/Kartikaye07/Colorizing-Greyscale-Images/assets/106856745/bee49c5e-f97d-42db-b0de-11abc475acab)eb73-416d-8a4d-a473134ce9eb)
+![test_dog_1](https://github.com/Kartikaye07/Colorizing-Greyscale-Images/assets/106856745/bee49c5e-f97d-42db-b0de-11abc475acab)
 ![test_person_female](https://github.com/Kartikaye07/Colorizing-Greyscale-Images/assets/106856745/a78fefa8-96db-4b82-b828-223919cbc564)
 ![test_person_male](https://github.com/Kartikaye07/Colorizing-Greyscale-Images/assets/106856745/e6a77833-671b-46c3-8744-87b96647bd4d)
 ![test_car](https://github.com/Kartikaye07/Colorizing-Greyscale-Images/assets/106856745/b318a787-6bf6-44c0-b558-90f835def651)
